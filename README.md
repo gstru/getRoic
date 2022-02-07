@@ -23,9 +23,9 @@ Collection of scripts to know the health status of a company and its fair value.
 ## Flowchart <a name="flowchart"></a>
 Below the flowcharts I followed to build the scripts
 
-<img src="https://github.com/gstru/getRoic/blob/main/src/images/dividend-discounted-model.png" width=65% height=65%>
+<img src="https://github.com/gstru/getRoic/blob/main/src/images/dividend-discounted-model.png" width=75% height=75%>
 
-<img src="https://github.com/gstru/getRoic/blob/main/src/images/discounted-cash-flow-model.png" width=65% height=65%>
+<img src="https://github.com/gstru/getRoic/blob/main/src/images/discounted-cash-flow-model.png" width=75% height=75%>
 
 ## Excel File Settings <a name="excel"></a>
 I have set up the excel file with these sheets: YNAME, DCF, MULTIPLI.
