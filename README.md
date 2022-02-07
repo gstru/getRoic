@@ -20,10 +20,12 @@ Collection of scripts useful to know the health status of a company and its fair
 4. [Selenium Settings](#selenium)
 5. [Warnings](#warnings)
 
-## Flowchart <a name="excel"></a>
+## Flowchart <a name="flowchart"></a>
+Below the flowcharts I followed to build the scripts
 
-These are the flowcharts I followed to build the scripts
-![ddm](https://github.com/gstru/getRoic/blob/main/src/images/dividend-discounted-model.png)
+<img src="https://github.com/gstru/getRoic/blob/main/src/images/dividend-discounted-model.png" width=65% height=65%>
+
+<img src="https://github.com/gstru/getRoic/blob/main/src/images/discounted-cash-flow-model.png" width=65% height=65%>
 
 ## Excel File Settings <a name="excel"></a>
 I have set up the excel file with these sheets: YNAME, DCF, MULTIPLI.
