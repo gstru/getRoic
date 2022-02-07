@@ -10,7 +10,7 @@ Collection of scripts useful to know the health status of a company and its fair
 - numpy
 - yfinance
 - openpyxl
-- pyfiglet
+- pyfiglet *[not needed at the moment]*
 
 # How it works
 
@@ -54,6 +54,6 @@ Take the crx files of these extensions and change the folder path in the script 
 ## Warnings <a name="warnings"></a>
 The project is still in a testing state, known issues are:
 
-- corrupted excel file after forced script closure *(this does not always happen)*
+- corrupted excel file after forced script closure *[this does not always happen]*
 - parameters taken from yfinance not available with some companies
 - please note that yahoo may prevent the page from loading due to too many queries. for this reason a timeout of 60s has been added. use a vpn if you think you will do a lot of queries
