@@ -1,5 +1,5 @@
 # getRoic
-Collection of scripts useful to know the health status of a company and its fair value. It is based on the yfinance library.
+Collection of scripts to know the health status of a company and its fair value. It is based on the yfinance library.
 - Dividend Discounted Model 
 - Discounted Cash Flow Model
 - Stock Picking Model, based on balance sheet multiples
