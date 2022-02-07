@@ -34,8 +34,9 @@ I have set up the excel file with these sheets: YNAME, DCF, MULTIPLI.
 
 Obviously you can modify them as you want, just remember to change the code.
 
+All scripts take the names of the companies you have selected from "YNAME" sheet, python processes the data and then saves the results in the sheet set in the script.
+
 ## Industry Table <a name="finviz"></a>
-All scripts take the names of the companies you have selected from an excel sheet, python processes the data and then saves the results in a new sheet.
 
 balance-sheet-multiples.py script uses a csv exported from [finviz](https://finviz.com/grp_export.ashx?g=industry&v=120&o=name). 
 
